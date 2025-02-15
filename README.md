@@ -9,4 +9,4 @@ This script takes a list of scientific species names of the Diptera order and sc
 Run this in the console of the Python editor: `pip install requests beautifulsoup4 pandas`.
 
 ## Running the script
-Download the script via `clone` > `download ZIP`. Open in any python editor, place the input file in the same folder, replace the values of the first four variables in the script, and run it.
+Download the script via `clone` > `download ZIP`. Open in any Python editor, place the input file in the same folder, replace the values of the first four variables in the script and run it.
